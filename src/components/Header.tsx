@@ -10,7 +10,7 @@ import {
   display,
   person,
   about,
-  // blog,
+  blog,
   work,
   gallery,
 } from "@/resources";

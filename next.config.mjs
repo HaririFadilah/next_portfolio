@@ -15,7 +15,7 @@ const nextConfig = {
   },
   webpack: (config, { dev }) => {
     if (dev) {
-      config.cache = true; // Hanya nonaktifkan cache saat development
+      config.cache = false; // Hanya nonaktifkan cache saat development
     }
     return config;
   },
