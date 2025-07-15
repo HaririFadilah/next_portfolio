@@ -12,7 +12,15 @@ import {
   Meta,
   Schema,
 } from "@once-ui-system/core";
-import { home, about, person, newsletter, baseURL, routes } from "@/resources";
+import {
+  home,
+  about,
+  person,
+  newsletter,
+  baseURL,
+  routes,
+  blog,
+} from "@/resources";
 import { Mailchimp } from "@/components";
 import { Projects } from "@/components/work/Projects";
 import { Posts } from "@/components/blog/Posts";
