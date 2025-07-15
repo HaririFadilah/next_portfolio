@@ -63,8 +63,8 @@ const home = {
   },
   subline: (
     <>
-      I'm Hariri, a Network Engginer & Web Developer at Entusiast, where I craft
-      intuitive
+      I&apos;m Hariri, a Network Engginer & Web Developer at Entusiast, where I
+      craft intuitive
       <br /> user experiences. After hours, I build my own projects.
     </>
   ),
