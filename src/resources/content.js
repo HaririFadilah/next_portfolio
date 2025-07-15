@@ -35,7 +35,7 @@ const social = [
   {
     name: "LinkedIn",
     icon: "linkedin",
-    link: "https://www.linkedin.com/in/muhamad-hariri-fadilah-086369278/",
+    link: "https://www.linkedin.com/in/haririfdlh/",
   },
   {
     name: "Email",
@@ -94,7 +94,7 @@ const about = {
         Hariri is a Depok-based IT engineer with a passion for designing
         scalable infrastructure, securing digital environments, and building
         user-focused web applications. With a multidisciplinary background in
-        network engineering, system administration, cloud computing, and
+        network engineering, system administration, cloud engginering, and
         full-stack web development, he brings a holistic approach to solving
         technical challenges.
       </>
@@ -131,6 +131,10 @@ const about = {
                 Performs routine maintenance and software updates to ensure
                 performance and security.
               </>,
+              <>
+                Reconfiguring network devices and ensuring regular maintenance
+                is carried .
+              </>,
             ],
           },
           {
@@ -159,10 +163,6 @@ const about = {
               <>
                 Creating reports on network status, incident resolutions, and
                 documenting configurations and procedures.
-              </>,
-              <>
-                Reconfiguring network devices and ensuring regular maintenance
-                is carried .
               </>,
             ],
           },
